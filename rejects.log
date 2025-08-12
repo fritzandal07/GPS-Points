@@ -1,0 +1,150 @@
+Reject row {'device_id': 'van007', 'lat': '14.682743', 'lon': '120.71595', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '15.723629', 'lon': '120.737589', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '16.068442', 'lon': '120.66563', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.910641', 'lon': '120.907262', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.644521', 'lon': '120.821656', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.15002', 'lon': '121.018518', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.772391', 'lon': '120.467444', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '13.768779', 'lon': '121.057061', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.766693', 'lon': '120.483287', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.703882', 'lon': '120.657275', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.190025', 'lon': '121.014496', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.79625', 'lon': '120.401067', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.496902', 'lon': '120.983516', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.725848', 'lon': '120.59655', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '15.79981', 'lon': '120.721714', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '15.427824', 'lon': '120.799319', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.016507', 'lon': '121.032063', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.771362', 'lon': '120.470183', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.708028', 'lon': '120.645549', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.778376', 'lon': '120.450848', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.343478', 'lon': '120.999067', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.055753', 'lon': '121.028056', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.23416', 'lon': '121.010014', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.455155', 'lon': '120.987775', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.207511', 'lon': '121.012813', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.472717', 'lon': '120.985948', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '16.180976', 'lon': '120.642138', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '15.300877', 'lon': '120.825763', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '13.927345', 'lon': '121.041111', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '16.304261', 'lon': '120.616388', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.950603', 'lon': '120.898886', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.591528', 'lon': '120.968689', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.1716', 'lon': '121.016404', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.776923', 'lon': '120.454961', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '16.077448', 'lon': '120.663731', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '15.621948', 'lon': '120.758809', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.427691', 'lon': '120.990506', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '15.507626', 'lon': '120.782654', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.740531', 'lon': '120.555771', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '16.267984', 'lon': '120.624009', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.127499', 'lon': '121.020832', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.590478', 'lon': '120.971441', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '15.868752', 'lon': '120.707263', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.801755', 'lon': '120.929867', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '15.865188', 'lon': '120.70812', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '15.391585', 'lon': '120.806928', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '15.473204', 'lon': '120.789803', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '15.656476', 'lon': '120.751547', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '15.921411', 'lon': '120.696382', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.700823', 'lon': '120.665543', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.805456', 'lon': '120.929163', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '15.500422', 'lon': '120.784132', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '15.407914', 'lon': '120.803532', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.792288', 'lon': '120.412081', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.455155', 'lon': '120.987775', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.595007', 'lon': '120.958976', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '15.992228', 'lon': '120.681611', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '13.850575', 'lon': '121.0488', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '13.950653', 'lon': '121.038681', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.831115', 'lon': '120.304437', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.659754', 'lon': '120.779461', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.784021', 'lon': '120.434878', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.220793', 'lon': '121.011451', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.796058', 'lon': '120.401816', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '15.683689', 'lon': '120.745893', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '14.783037', 'lon': '120.43762', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '13.83224', 'lon': '121.050592', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
+Reject row {'device_id': 'van007', 'lat': '14.430991', 'lon': '120.990225', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '15.520449', 'lon': '120.779915', 'timestamp': 'not-a-timestamp'}: Invalid isoformat string: 'not-a-timestamp'
+Reject row {'device_id': 'van007', 'lat': '999.0', 'lon': '999.0', 'timestamp': '2025-05-12T15:32:58.726864'}: Invalid coordinates
